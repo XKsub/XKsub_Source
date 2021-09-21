@@ -81,7 +81,6 @@ Dialogue: 0,0:00:02.86,0:00:04.48,Sign,,0,0,0,,{\p1\pos(160,324)\an7\bord0\c&HFD
 Dialogue: 0,0:00:02.86,0:00:04.48,Sign,,0,0,0,,{\p1\pos(160,426)\an7\bord0\c&HFDFDBB&\1a&H50&}m 100 20 l 100 100 350 100 350 20
 Dialogue: 0,0:00:02.86,0:00:04.48,Sign,,0,0,0,,{\p1\pos(160,536)\an7\bord0\c&HFDFDBB&\1a&H50&}m -100 20 l -100 140 350 140 350 20
 Dialogue: 0,0:00:02.86,0:00:04.48,Sign,,0,0,0,,{\p1\pos(160,678)\an7\bord0\c&HFDFDBB&\1a&H50&}m 150 20 l 150 65 350 65 350 20
-Dialogue: 0,0:00:02.86,0:00:04.48,Sign,,0,0,0,,{\p1\pos(160,678)\an7\bord0\c&HFDFDBB&\1a&H50&}m 150 20 l 150 65 350 65 350 20
 Dialogue: 0,0:00:02.86,0:00:04.48,Sign,,0,0,0,,{\p1\pos(160,750)\an7\bord0\c&HFDFDBB&\1a&H50&}m 50 20 l 50 65 350 65 350 20
 Dialogue: 0,0:04:52.52,0:04:52.56,Sign,,0,0,0,,{\fscy100\fscx100\c&HEBB414&\3c&H8E5043&\frz9.5\fs70\bord2\shad4\4c&H8E5043&\fax0.03\pos(764,356)}停止!! 云雀
 Dialogue: 0,0:04:52.56,0:04:52.61,Sign,,0,0,0,,{\fscy100\fscx100\c&HEBB414&\3c&H8E5043&\frz9.49\fs70\bord2\shad4\4c&H8E5043&\fax0.03\pos(764.03,356.04)}停止!! 云雀
