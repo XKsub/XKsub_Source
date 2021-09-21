@@ -27,7 +27,7 @@ Style: EDCN,方正宋黑_GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,～Credit～
-Dialogue: 0,0:00:26.01,0:00:27.47,Text - JP - top,,0,0,0,,{\an9\bord0\fsp2\shad2\fn方正宋黑_GBK\pos(1860,900)\fs60}星空字幕组×SweetSub{\fs30}\N\N{\fs50}翻译：千恋、自分次第   校对：Senren   后期：Senren、natsukage\N\N
+Dialogue: 0,0:00:26.01,0:00:27.47,Sign,,0,0,0,,{\an9\bord0\fsp2\shad2\fn方正宋黑_GBK\pos(1860,900)\fs60}星空字幕組×SweetSub{\fs30}\N\N{\fs50}翻譯：千戀、自分次第   校對：Senren   後期：Senren、natsukage\N\N
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,～Sign～
 Dialogue: 0,0:00:49.99,0:00:54.62,Sign,,0,0,0,,{\an7\fs40\pos(1250,22)\bord0\shad2\c&HFFFFFF&\1a&H32&}這個世界『仙人掌小鎮』\N\N\N我們認識了一個住在仙人掌裡、自稱斯派克的人。\N他告訴我們，有一種在無風的時候也會不斷滾動的草。\N我們在荒野裡連續走了 3 天，終於找到了這種草。\N據瑞穗所說，這好像叫「風滾草」。\N\N　能力遺留物『滾草』
 Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,～Dialogue CN～

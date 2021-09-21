@@ -27,7 +27,7 @@ Style: EDCN,方正宋黑_GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,～Credit～
-Dialogue: 0,0:00:07.49,0:00:09.99,Text - JP - top,,0,0,0,,{\an1\bord0\fsp2\shad2\fn方正宋黑_GBK\pos(60,1020)\fs60}星空字幕组×SweetSub{\fs30}\N\N{\fs50}翻译：千恋、自分次第   校对：Senren   后期：Senren、natsukage、ddddbug\N\N
+Dialogue: 0,0:00:07.49,0:00:09.99,Sign,,0,0,0,,{\an1\bord0\fsp2\shad2\fn方正宋黑_GBK\pos(60,1020)\fs60}星空字幕組×SweetSub{\fs30}\N\N{\fs50}翻譯：千戀、自分次第   校對：Senren   後期：Senren、natsukage、ddddbug\N\N
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,～Theme Song～
 Dialogue: 0,0:23:01.78,0:24:25.61,Default,,0,0,0,,{\p1\pos(0,0)\fad(0,0)\an7\blur1\bord0\1c&H000000&}m -20 -20 l -20 132 1940 132 1940 -20
 Dialogue: 0,0:23:01.78,0:24:25.61,Default,,0,0,0,,{\p1\pos(0,0)\fad(0,0)\an7\blur1\bord0\1c&H000000&}m -20 948 l -20 1100 1940 1100 1940 948

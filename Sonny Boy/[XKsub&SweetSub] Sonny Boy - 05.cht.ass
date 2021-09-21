@@ -27,7 +27,7 @@ Style: EDCN,方正宋黑_GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,～Credit～
-Dialogue: 0,0:03:11.13,0:03:13.38,Text - JP - top,,0,0,0,,{\an7\bord0\fsp2\shad0\fn方正宋黑_GBK\pos(60,900)\fs60\c&H000000&\4c&HF0F0F0&\1a&H4B&}星空字幕组×SweetSub{\fs30}\N\N{\fs50}翻译：千恋、自分次第、ddddbug   校对：Senren   后期：natsukage\N
+Dialogue: 0,0:03:11.13,0:03:13.38,Sign,,0,0,0,,{\an7\bord0\fsp2\shad0\fn方正宋黑_GBK\pos(60,900)\fs60\c&H000000&\4c&HF0F0F0&\1a&H4B&}星空字幕組×SweetSub{\fs30}\N\N{\fs50}翻譯：千戀、自分次第、ddddbug   校對：Senren   後期：natsukage\N
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,～Theme Song～
 Dialogue: 0,0:23:01.78,0:24:25.61,Default,,0,0,0,,{\p1\pos(0,0)\fad(0,0)\an7\blur1\bord0\1c&H000000&}m -20 -20 l -20 132 1940 132 1940 -20
 Dialogue: 0,0:23:01.78,0:24:25.61,Default,,0,0,0,,{\p1\pos(0,0)\fad(0,0)\an7\blur1\bord0\1c&H000000&}m -20 948 l -20 1100 1940 1100 1940 948
@@ -409,7 +409,7 @@ Dialogue: 1,0:05:04.10,0:05:04.91,Text - CN,,800,0,0,,怎麼會？
 Dialogue: 1,0:05:04.91,0:05:05.71,Text - CN,,0,800,0,,為什麼？
 Dialogue: 1,0:05:04.91,0:05:05.71,Text - CN,,800,0,0,,亞希老師
 Dialogue: 1,0:05:06.15,0:05:07.49,Text - CN,,0,0,0,,我想回家！
-Dialogue: 1,0:05:07.49,0:05:09.06,Text - CN,,0,0,0,,閉嘴！你們不配叫我名字！
+Dialogue: 1,0:05:07.49,0:05:09.06,Text - CN,,0,0,0,,閉嘴！你們不配喊我名字！
 Dialogue: 1,0:05:09.71,0:05:12.96,Text - CN,,0,0,0,,再說這跟回去之類的沒關係吧
 Dialogue: 1,0:05:12.96,0:05:13.99,Text - CN,,0,0,0,,這是什麼意思？
 Dialogue: 1,0:05:13.99,0:05:17.22,Text - CN,,0,0,0,,你們之中應該有幾個人在來這裡之前
