@@ -10,7 +10,6 @@ PlayResY: 1080
 YCbCr Matrix: TV.709
 Title: [XKsub] Yami Shibai 9 - 05
 
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Source Han Sans SC Medium,80,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,3,0,2,20,20,50,1
@@ -28,7 +27,6 @@ Style: JP - Top,Source Han Sans Medium,40,&H00F0F0F0,&H000000FF,&H00000000,&H000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Title,,0,0,0,template syl,{\fad(300,0)\pos($x,892)\blur1\clip(64,36,1854,1044)}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Credit~
 Dialogue: 1,0:03:54.17,0:03:58.26,Default,,0,0,0,,{\fad(400,1200)\bord0\c&H213B61&\blur1\fs81\t(200,400,0.5,\fs80)\fnSource Han Serif SC Heavy\fscx90\fsp6\pos(960,820)}星空字幕组
 Dialogue: 1,0:03:54.17,0:03:58.26,Default,,0,0,0,,{\fad(400,1200)\bord0\c&H213B61&\blur1\fs61\pos(960,880)\t(200,400,0.5,\fs60)}翻译：Lazuli　后期：Kazenagi

@@ -11,7 +11,6 @@ PlayResY: 1080
 YCbCr Matrix: TV.709
 Title: [XKsub] Yami Shibai 9 - 05
 
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Source Han Sans TC Medium,80,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,3,0,2,20,20,50,1
@@ -29,7 +28,6 @@ Style: JP - Top,Source Han Sans Medium,40,&H00F0F0F0,&H000000FF,&H00000000,&H000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Title,,0,0,0,template syl,{\fad(300,0)\pos($x,892)\blur1\clip(64,36,1854,1044)}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Credit~
 Dialogue: 1,0:03:54.17,0:03:58.26,Default,,0,0,0,,{\fad(400,1200)\bord0\c&H213B61&\blur1\fs81\t(200,400,0.5,\fs80)\fnSource Han Serif TC Heavy\fscx90\fsp6\pos(960,820)}星空字幕組
 Dialogue: 1,0:03:54.17,0:03:58.26,Default,,0,0,0,,{\fad(400,1200)\bord0\c&H213B61&\blur1\fs61\pos(960,880)\t(200,400,0.5,\fs60)}翻譯：Lazuli　後期：Kazenagi
@@ -40,11 +38,11 @@ Dialogue: 1,0:00:15.25,0:00:21.33,Default,,0,0,0,,這是因車禍失去孩子的
 Dialogue: 1,0:00:22.29,0:00:23.50,Default,,0,0,0,,清斗…
 Dialogue: 1,0:00:24.55,0:00:26.71,Default,,0,0,0,,爸爸真慢  我先走了
 Dialogue: 1,0:00:26.71,0:00:29.18,Default,,0,0,0,,抱歉  爸爸等一下就追上你
-Dialogue: 1,0:00:29.18,0:00:30.55,Default,,0,0,0,,沒忘記帶東西吧？
+Dialogue: 1,0:00:29.18,0:00:30.55,Default,,0,0,0,,沒忘帶東西吧？
 Dialogue: 1,0:00:30.55,0:00:31.76,Default,,0,0,0,,嗯  沒有
 Dialogue: 1,0:00:31.76,0:00:34.14,Default,,0,0,0,,跟爸爸一起做的老虎  帶上了嗎？
 Dialogue: 1,0:00:34.14,0:00:34.51,Default,,0,0,0,,啊
-Dialogue: 1,0:00:35.18,0:00:37.64,Default,,0,0,0,,我們花大力氣做的  忘記帶可就白費了啊
+Dialogue: 1,0:00:35.18,0:00:37.64,Default,,0,0,0,,我們花大力氣做的  忘帶可就白費了啊
 Dialogue: 1,0:00:37.64,0:00:39.02,Default,,0,0,0,,不妙啊
 Dialogue: 1,0:00:39.56,0:00:41.44,Default,,0,0,0,,那麼我出門了
 Dialogue: 1,0:00:41.44,0:00:42.61,Default,,0,0,0,,老虎先生

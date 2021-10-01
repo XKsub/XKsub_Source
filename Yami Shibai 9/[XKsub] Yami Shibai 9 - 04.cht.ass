@@ -28,7 +28,6 @@ Style: JP - Top,Source Han Sans Medium,40,&H00F0F0F0,&H000000FF,&H00000000,&H000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Title,,0,0,0,template syl,{\fad(300,0)\pos($x,892)\blur1\clip(64,36,1854,1044)}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Credit~
 Dialogue: 1,0:03:54.17,0:03:58.26,Default,,0,0,0,,{\fad(400,1200)\bord0\c&H213B61&\blur1\fs81\t(200,400,0.5,\fs80)\fnSource Han Serif TC Heavy\fscx90\fsp6\pos(960,820)}星空字幕組
 Dialogue: 1,0:03:54.17,0:03:58.26,Default,,0,0,0,,{\fad(400,1200)\bord0\c&H213B61&\blur1\fs61\pos(960,880)\t(200,400,0.5,\fs60)}翻譯：Lazuli　後期：Kazenagi
@@ -73,9 +72,9 @@ Dialogue: 1,0:01:47.30,0:01:49.67,Default,,0,0,0,,竟然把小狗遺棄在這種
 Dialogue: 1,0:01:49.67,0:01:53.64,Default,,0,0,0,,梅太  你肯定很孤單吧  真可憐
 Dialogue: 1,0:01:56.05,0:01:56.55,Default,,0,0,0,,請問…
 Dialogue: 1,0:01:57.81,0:01:59.56,Default,,0,0,0,,很抱歉嚇到你了
-Dialogue: 1,0:01:59.56,0:02:00.98,Default,,0,0,0,,欸  刑警先生？
+Dialogue: 1,0:01:59.56,0:02:00.98,Default,,0,0,0,,誒  刑警先生？
 Dialogue: 1,0:02:00.98,0:02:05.15,Default,,0,0,0,,你知道最近這附近發生了多起棄屍案件嗎？
-Dialogue: 1,0:02:05.15,0:02:08.53,Default,,0,0,0,,欸  我只是來這裡當寵物保姆的
+Dialogue: 1,0:02:05.15,0:02:08.53,Default,,0,0,0,,誒  我只是來這裡當寵物保姆的
 Dialogue: 1,0:02:08.53,0:02:10.57,Default,,0,0,0,,對這附近不太了解…
 Dialogue: 1,0:02:10.57,0:02:11.74,Default,,0,0,0,,這樣啊
 Dialogue: 1,0:02:11.74,0:02:15.11,Default,,0,0,0,,最近不安全  傍晚以後最好不要出來走動
@@ -102,7 +101,7 @@ Dialogue: 1,0:03:00.99,0:03:03.04,Default,,0,0,0,,是手啊  手…
 Dialogue: 1,0:03:03.04,0:03:05.62,Default,,0,0,0,,你說什麼  最近我有些耳背
 Dialogue: 1,0:03:06.54,0:03:09.21,Default,,0,0,0,,你為什麼拿著菜刀？
 Dialogue: 1,0:03:09.21,0:03:12.34,Default,,0,0,0,,哎呀  真抱歉  我還在做飯呢
-Dialogue: 1,0:03:12.34,0:03:14.67,Default,,0,0,0,,難道是你做的嗎？
+Dialogue: 1,0:03:12.34,0:03:14.67,Default,,0,0,0,,難道是你幹的嗎？
 Dialogue: 1,0:03:15.13,0:03:15.72,Default,,0,0,0,,你別過來
 Dialogue: 1,0:03:15.72,0:03:17.55,Default,,0,0,0,,瑞希小姐  你誤會了
 Dialogue: 1,0:03:17.55,0:03:18.51,Default,,0,0,0,,別過來
